@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Title_Screen.unity
+    guid: d64ab3cb9ab7e264b8081c5309274e5d
+  - enabled: 1
+    path: Assets/Old_Scenes/Main_Menu.unity
+    guid: 71aa2db201af14844aa36b135cf5ab33
+  - enabled: 1
+    path: Assets/Help_Page.unity
+    guid: 74c176adfd9e46f4dbcdf746391903f3
+  - enabled: 1
+    path: Assets/Old_Scenes/Settings_Page.unity
+    guid: d52ca7082e4db1b44b1e571bf19bc973
+  - enabled: 1
+    path: Assets/Credits_Page.unity
+    guid: 43c8e29363525c248884ef8ad850b6d5
+  - enabled: 1
+    path: Assets/Win_Page.unity
+    guid: 3f849e3b8fe30a44ea65bf58f2cc026e
+  - enabled: 1
+    path: Assets/Lose_Page.unity
+    guid: 4e327c5749c3f5e499052cef5f7ffec4
+  - enabled: 1
+    path: Assets/Old_Scenes/MapSelector.unity
+    guid: ffd48172fa219ae47833130d02e49f22
+  - enabled: 1
+    path: Assets/Level_1.unity
+    guid: b46eae0988263e54c97894600cbfdaf1
+  - enabled: 1
+    path: Assets/Level_2.unity
+    guid: a16f5ff9c7a903c498475dab2c4cc6ca
+  - enabled: 1
+    path: Assets/Level_3.unity
+    guid: b4ecb436c1d4ff24ba3cf2201b98d712
+  - enabled: 1
+    path: Assets/Level_4.unity
+    guid: c96b48e47ed94b44bbce2dedf0959fba
+  - enabled: 1
+    path: Assets/Level_5.unity
+    guid: 2fed739f1e2f89d48ba291cc5854d8a3
+  - enabled: 1
+    path: Assets/Level_6.unity
+    guid: 52bd98c5fec2b484cb5dfc72b60d6cf0
+  - enabled: 1
+    path: Assets/Level_7.unity
+    guid: af0b54d62b8d01e4eb56fce9b0076076
+  - enabled: 1
+    path: Assets/NewMenu.unity
+    guid: fa2122bd3cab17440bfbc2560c9dc11c
+  - enabled: 1
+    path: Assets/CompetitiveLevel_1.unity
+    guid: 1ca86ead78223e84e88b5e935f31bc1a
+  - enabled: 1
+    path: Assets/CompetitiveLevel_2.unity
+    guid: 12adbe426aa3ce34298a6e38e9bcfe72
+  - enabled: 1
+    path: Assets/CompetitiveLevel_3.unity
+    guid: 1716a7e96e4d43d4ba7e17bd6766f514
+  - enabled: 1
+    path: Assets/CompetitiveLevel_4.unity
+    guid: 727d40b8d253f4541b98efc6eba0b975
+  - enabled: 1
+    path: Assets/CompetitiveLevel_5.unity
+    guid: 1b56ae8f187ad244a931629b464d4fbe
+  - enabled: 1
+    path: Assets/CompetitiveLevel_6.unity
+    guid: f2ed6165e745b24438a3c754e6e7c659
+  - enabled: 1
+    path: Assets/CompetitiveLevel_7.unity
+    guid: 689e404b454b3b84689a31d6f427102f
+  - enabled: 1
+    path: Assets/SargeantSandBox.unity
+    guid: 930769500bb77ed4c82839027b1bde22
+  - enabled: 1
+    path: Assets/Level_8.unity
+    guid: ebff84d3b72bcb54baa42d03304d8306
+  - enabled: 1
+    path: Assets/Level_9.unity
+    guid: c6d915387c937d14dbb4c32c6924d386
+  - enabled: 1
+    path: Assets/Level_10.unity
+    guid: 1cccf960794a69a4ab38754534c7a2e1
